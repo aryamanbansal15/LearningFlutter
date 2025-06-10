@@ -12,19 +12,20 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       /* home: HomePage(),*/
       themeMode: ThemeMode.light,
       theme: ThemeData(
         useMaterial3: false,
-        primarySwatch: Colors.cyan,
+        primarySwatch: Colors.red,
       ),
       darkTheme: ThemeData(
         brightness: Brightness.dark,
       ),
-      initialRoute : "/home",
+      initialRoute: "/",
       routes: {
-        "/":(context) => LoginPage(), // Run By Default
-        "/home":(context) => HomePage(),
+        "/": (context) => LoginPage(), // Run By Default
+        "/home": (context) => HomePage(),
       },
     );
   }

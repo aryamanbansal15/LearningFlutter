@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "name": "iPhone 12",
+      "desc": "Apple iPhone 12th Generation",
+      "price": 59999,
+      "color": "#d82626",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/bf8ed21e-96c9.jpg?p=default&s=lg"
+    },
+    {
+      "id": "102",
+      "name": "Samsung Galaxy S24",
+      "desc": "Samsung's latest Galaxy flagship",
+      "price": 84999,
+      "color": "#e06851",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/dab0d987-4d22.jpg?p=default&s=lg"
+    },
+    {
+      "id": "103",
+      "name": "OnePlus 12",
+      "desc": "OnePlus 12 with Hasselblad Camera",
+      "price": 69999,
+      "color": "#d86026",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/3ba10c91-7df6.jpg?p=default&s=lg"
+    },
+    {
+      "id": "104",
+      "name": "Google Pixel 8",
+      "desc": "Google Pixel 8 with Tensor G3",
+      "price": 75999,
+      "color": "#e09751",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/f4058b12-24de.jpg?p=default&s=lg"
+    },
+    {
+      "id": "105",
+      "name": "iPhone 13",
+      "desc": "Apple iPhone 13th Generation",
+      "price": 64999,
+      "color": "#d89a26",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/96a67b00-9389.jpg?p=default&s=lg"
+    },
+    {
+      "id": "106",
+      "name": "iPhone 14",
+      "desc": "Apple iPhone 14th Generation",
+      "price": 70999,
+      "color": "#e0c551",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/36ea82c3-6d6a.jpg?p=default&s=lg"
+    },
+    {
+      "id": "107",
+      "name": "iPhone 15",
+      "desc": "Apple iPhone 15th Generation",
+      "price": 79999,
+      "color": "#d8d326",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/e2c7dff8-23a0.jpg?p=default&s=lg"
+    },
+    {
+      "id": "108",
+      "name": "Samsung Galaxy A54",
+      "desc": "Mid-range Android phone by Samsung",
+      "price": 38999,
+      "color": "#cde051",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/c60d8fca-d6f9.jpg?p=default&s=lg"
+    },
+    {
+      "id": "109",
+      "name": "OnePlus Nord CE 4",
+      "desc": "Affordable OnePlus smartphone",
+      "price": 25999,
+      "color": "#a3d826",
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/4ae1d8fb-7621.jpg?p=default&s=lg"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "desc": "Apple iPhone 12th Generation",
       "price": 59999,
       "color": "#d82626",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343707000"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/bf8ed21e-96c9.jpg?p=default&s=lg"
     },
     {
       "id": "102",
@@ -14,7 +14,7 @@
       "desc": "Samsung's latest Galaxy flagship",
       "price": 84999,
       "color": "#e06851",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzyuins-thumb-539126246?$344_344_PNG$"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/dab0d987-4d22.jpg?p=default&s=lg"
     },
     {
       "id": "103",
@@ -22,7 +22,7 @@
       "desc": "OnePlus 12 with Hasselblad Camera",
       "price": 69999,
       "color": "#d86026",
-      "imageURL": "https://image01.oneplus.net/ebp/202401/03/1-m00-35-64-cpgm7mxxc8cadlzoaapz0a2y_so114.png"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/3ba10c91-7df6.jpg?p=default&s=lg"
     },
     {
       "id": "104",
@@ -30,7 +30,7 @@
       "desc": "Google Pixel 8 with Tensor G3",
       "price": 75999,
       "color": "#e09751",
-      "imageURL": "https://store.google.com/us/product/images/pixel_8/hero_pixel_8_porcelain.png"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/f4058b12-24de.jpg?p=default&s=lg"
     },
     {
       "id": "105",
@@ -38,7 +38,7 @@
       "desc": "Apple iPhone 13th Generation",
       "price": 64999,
       "color": "#d89a26",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629908548000"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/96a67b00-9389.jpg?p=default&s=lg"
     },
     {
       "id": "106",
@@ -46,7 +46,7 @@
       "desc": "Apple iPhone 14th Generation",
       "price": 70999,
       "color": "#e0c551",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-select-2022?wid=940&hei=1112&fmt=png-alpha&.v=1660744840526"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/36ea82c3-6d6a.jpg?p=default&s=lg"
     },
     {
       "id": "107",
@@ -54,7 +54,7 @@
       "desc": "Apple iPhone 15th Generation",
       "price": 79999,
       "color": "#d8d326",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-select-2023?wid=940&hei=1112&fmt=png-alpha&.v=1692918161349"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/e2c7dff8-23a0.jpg?p=default&s=lg"
     },
     {
       "id": "108",
@@ -62,7 +62,7 @@
       "desc": "Mid-range Android phone by Samsung",
       "price": 38999,
       "color": "#cde051",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvgins/gallery/in-galaxy-a54-5g-sm-a546-444515-sm-a546elvgins-thumb-537225281"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/c60d8fca-d6f9.jpg?p=default&s=lg"
     },
     {
       "id": "109",
@@ -70,231 +70,7 @@
       "desc": "Affordable OnePlus smartphone",
       "price": 25999,
       "color": "#a3d826",
-      "imageURL": "https://image01.oneplus.net/ebp/202404/01/1-m00-3b-24-cpgm7mxytluabqzgaabnzuohszq644.png"
-    },
-    {
-      "id": "110",
-      "name": "Nothing Phone (2)",
-      "desc": "Nothing Phone with transparent design",
-      "price": 44999,
-      "color": "#9ee051",
-      "imageURL": "https://cdn1.smartprix.com/rx-iWakHBbQt-w420-h420/nothing-phone-2-5g.jpg"
-    },
-    {
-      "id": "111",
-      "name": "iPhone 12",
-      "desc": "Apple iPhone 12th Generation",
-      "price": 59999,
-      "color": "#69d826",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343707000"
-    },
-    {
-      "id": "112",
-      "name": "Samsung Galaxy S24",
-      "desc": "Samsung's latest Galaxy flagship",
-      "price": 84999,
-      "color": "#70e051",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzyuins-thumb-539126246?$344_344_PNG$"
-    },
-    {
-      "id": "113",
-      "name": "OnePlus 12",
-      "desc": "OnePlus 12 with Hasselblad Camera",
-      "price": 69999,
-      "color": "#2fd826",
-      "imageURL": "https://image01.oneplus.net/ebp/202401/03/1-m00-35-64-cpgm7mxxc8cadlzoaapz0a2y_so114.png"
-    },
-    {
-      "id": "114",
-      "name": "Google Pixel 8",
-      "desc": "Google Pixel 8 with Tensor G3",
-      "price": 75999,
-      "color": "#51e061",
-      "imageURL": "https://store.google.com/us/product/images/pixel_8/hero_pixel_8_porcelain.png"
-    },
-    {
-      "id": "115",
-      "name": "iPhone 13",
-      "desc": "Apple iPhone 13th Generation",
-      "price": 64999,
-      "color": "#26d856",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629908548000"
-    },
-    {
-      "id": "116",
-      "name": "iPhone 14",
-      "desc": "Apple iPhone 14th Generation",
-      "price": 70999,
-      "color": "#51e08f",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-select-2022?wid=940&hei=1112&fmt=png-alpha&.v=1660744840526"
-    },
-    {
-      "id": "117",
-      "name": "iPhone 15",
-      "desc": "Apple iPhone 15th Generation",
-      "price": 79999,
-      "color": "#26d890",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-select-2023?wid=940&hei=1112&fmt=png-alpha&.v=1692918161349"
-    },
-    {
-      "id": "118",
-      "name": "Samsung Galaxy A54",
-      "desc": "Mid-range Android phone by Samsung",
-      "price": 38999,
-      "color": "#51e0bd",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvgins/gallery/in-galaxy-a54-5g-sm-a546-444515-sm-a546elvgins-thumb-537225281"
-    },
-    {
-      "id": "119",
-      "name": "OnePlus Nord CE 4",
-      "desc": "Affordable OnePlus smartphone",
-      "price": 25999,
-      "color": "#26d8ca",
-      "imageURL": "https://image01.oneplus.net/ebp/202404/01/1-m00-3b-24-cpgm7mxytluabqzgaabnzuohszq644.png"
-    },
-    {
-      "id": "120",
-      "name": "Nothing Phone (2)",
-      "desc": "Nothing Phone with transparent design",
-      "price": 44999,
-      "color": "#51d4e0",
-      "imageURL": "https://cdn1.smartprix.com/rx-iWakHBbQt-w420-h420/nothing-phone-2-5g.jpg"
-    },
-    {
-      "id": "121",
-      "name": "iPhone 12",
-      "desc": "Apple iPhone 12th Generation",
-      "price": 59999,
-      "color": "#26add8",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343707000"
-    },
-    {
-      "id": "122",
-      "name": "Samsung Galaxy S24",
-      "desc": "Samsung's latest Galaxy flagship",
-      "price": 84999,
-      "color": "#51a6e0",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzyuins-thumb-539126246?$344_344_PNG$"
-    },
-    {
-      "id": "123",
-      "name": "OnePlus 12",
-      "desc": "OnePlus 12 with Hasselblad Camera",
-      "price": 69999,
-      "color": "#2673d8",
-      "imageURL": "https://image01.oneplus.net/ebp/202401/03/1-m00-35-64-cpgm7mxxc8cadlzoaapz0a2y_so114.png"
-    },
-    {
-      "id": "124",
-      "name": "Google Pixel 8",
-      "desc": "Google Pixel 8 with Tensor G3",
-      "price": 75999,
-      "color": "#5178e0",
-      "imageURL": "https://store.google.com/us/product/images/pixel_8/hero_pixel_8_porcelain.png"
-    },
-    {
-      "id": "125",
-      "name": "iPhone 13",
-      "desc": "Apple iPhone 13th Generation",
-      "price": 64999,
-      "color": "#2639d8",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629908548000"
-    },
-    {
-      "id": "126",
-      "name": "iPhone 14",
-      "desc": "Apple iPhone 14th Generation",
-      "price": 70999,
-      "color": "#5951e0",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-select-2022?wid=940&hei=1112&fmt=png-alpha&.v=1660744840526"
-    },
-    {
-      "id": "127",
-      "name": "iPhone 15",
-      "desc": "Apple iPhone 15th Generation",
-      "price": 79999,
-      "color": "#4c26d8",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-select-2023?wid=940&hei=1112&fmt=png-alpha&.v=1692918161349"
-    },
-    {
-      "id": "128",
-      "name": "Samsung Galaxy A54",
-      "desc": "Mid-range Android phone by Samsung",
-      "price": 38999,
-      "color": "#8751e0",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a546elvgins/gallery/in-galaxy-a54-5g-sm-a546-444515-sm-a546elvgins-thumb-537225281"
-    },
-    {
-      "id": "129",
-      "name": "OnePlus Nord CE 4",
-      "desc": "Affordable OnePlus smartphone",
-      "price": 25999,
-      "color": "#8626d8",
-      "imageURL": "https://image01.oneplus.net/ebp/202404/01/1-m00-3b-24-cpgm7mxytluabqzgaabnzuohszq644.png"
-    },
-    {
-      "id": "130",
-      "name": "Nothing Phone (2)",
-      "desc": "Nothing Phone with transparent design",
-      "price": 44999,
-      "color": "#b551e0",
-      "imageURL": "https://cdn1.smartprix.com/rx-iWakHBbQt-w420-h420/nothing-phone-2-5g.jpg"
-    },
-    {
-      "id": "131",
-      "name": "iPhone 12",
-      "desc": "Apple iPhone 12th Generation",
-      "price": 59999,
-      "color": "#c026d8",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343707000"
-    },
-    {
-      "id": "132",
-      "name": "Samsung Galaxy S24",
-      "desc": "Samsung's latest Galaxy flagship",
-      "price": 84999,
-      "color": "#e051dc",
-      "imageURL": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bzyuins-thumb-539126246?$344_344_PNG$"
-    },
-    {
-      "id": "133",
-      "name": "OnePlus 12",
-      "desc": "OnePlus 12 with Hasselblad Camera",
-      "price": 69999,
-      "color": "#d826b6",
-      "imageURL": "https://image01.oneplus.net/ebp/202401/03/1-m00-35-64-cpgm7mxxc8cadlzoaapz0a2y_so114.png"
-    },
-    {
-      "id": "134",
-      "name": "Google Pixel 8",
-      "desc": "Google Pixel 8 with Tensor G3",
-      "price": 75999,
-      "color": "#e051ae",
-      "imageURL": "https://store.google.com/us/product/images/pixel_8/hero_pixel_8_porcelain.png"
-    },
-    {
-      "id": "135",
-      "name": "iPhone 13",
-      "desc": "Apple iPhone 13th Generation",
-      "price": 64999,
-      "color": "#d8267d",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-select-2021?wid=940&hei=1112&fmt=png-alpha&.v=1629908548000"
-    },
-    {
-      "id": "136",
-      "name": "iPhone 14",
-      "desc": "Apple iPhone 14th Generation",
-      "price": 70999,
-      "color": "#e0517f",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-select-2022?wid=940&hei=1112&fmt=png-alpha&.v=1660744840526"
-    },
-    {
-      "id": "137",
-      "name": "iPhone 15",
-      "desc": "Apple iPhone 15th Generation",
-      "price": 79999,
-      "color": "#d82643",
-      "imageURL": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-select-2023?wid=940&hei=1112&fmt=png-alpha&.v=1692918161349"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/4ae1d8fb-7621.jpg?p=default&s=lg"
     }
   ]
 }

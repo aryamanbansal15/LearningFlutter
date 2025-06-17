@@ -6,7 +6,8 @@
       "desc": "Apple iPhone 12th Generation",
       "price": 59999,
       "color": "#d82626",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/bf8ed21e-96c9.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/bf8ed21e-96c9.jpg?p=default&s=lg",
+      "detdesc": "The Apple iPhone 12 is a powerful smartphone that introduced 5G connectivity to the iPhone lineup, offering faster wireless speeds for streaming, gaming, and downloads. It features a sleek aerospace-grade aluminum frame, a durable Ceramic Shield front cover, and an edge-to-edge 6.1-inch Super Retina XDR OLED display for vibrant visuals and sharp text. Powered by the A14 Bionic chip, the iPhone 12 delivers incredible performance and efficiency, supporting demanding apps and multitasking with ease. The dual-camera system includes a 12MP ultra-wide and wide camera with Night mode and Deep Fusion for stunning photos in all lighting conditions. The device also supports MagSafe accessories for easy attachment and faster wireless charging. With iOS, you get access to a secure and intuitive interface, regular updates, and a vast library of apps. The iPhone 12's build quality, performance, and camera capabilities make it a reliable choice for users seeking premium features at a reasonable price point in the Apple ecosystem."
     },
     {
       "id": "102",
@@ -14,7 +15,8 @@
       "desc": "Samsung's latest Galaxy flagship",
       "price": 84999,
       "color": "#e06851",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/dab0d987-4d22.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/dab0d987-4d22.jpg?p=default&s=lg",
+      "detdesc": "The Samsung Galaxy S24 is a flagship device designed to push the boundaries of innovation and performance. It boasts a stunning 6.8-inch Dynamic AMOLED 2X display with a 120Hz refresh rate, offering ultra-smooth scrolling and vibrant color reproduction. Powered by the latest Exynos/Snapdragon processor (region-dependent), the S24 ensures lightning-fast performance, exceptional gaming capabilities, and efficient multitasking. The advanced triple-camera system includes a high-resolution primary sensor, ultra-wide lens, and periscope telephoto lens with up to 100x Space Zoom, enabling users to capture detailed photos and videos in any environment. The Galaxy S24 also features cutting-edge AI enhancements that optimize battery life, camera quality, and overall device performance. With IP68 water and dust resistance, robust Gorilla Glass protection, and long-lasting battery with super-fast charging, the S24 is built to handle daily challenges. Additionally, it integrates seamlessly with Samsung’s ecosystem of devices and supports features like Samsung DeX, wireless power sharing, and Knox security, making it ideal for both work and play."
     },
     {
       "id": "103",
@@ -22,7 +24,8 @@
       "desc": "OnePlus 12 with Hasselblad Camera",
       "price": 69999,
       "color": "#d86026",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/3ba10c91-7df6.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/3ba10c91-7df6.jpg?p=default&s=lg",
+      "detdesc": "The OnePlus 12 stands out as a performance powerhouse combined with premium design and advanced photography capabilities. Featuring a 6.7-inch QHD+ AMOLED display with a 120Hz adaptive refresh rate, it delivers stunning visuals with vibrant colors and deep contrasts, perfect for gaming and streaming. Under the hood, it’s powered by the latest Snapdragon 8 Gen processor paired with up to 16GB of RAM, ensuring blazing-fast performance even with heavy multitasking. The Hasselblad-tuned triple camera system offers exceptional image quality, with a 50MP primary sensor, ultra-wide lens, and telephoto camera, enhanced by OnePlus’s superior image processing algorithms. The OnePlus 12 supports 100W wired charging, enabling a day’s power in just a few minutes, along with wireless charging support. With OxygenOS, users enjoy a clean, fast, and customizable Android experience. Its robust build quality, premium materials, IP68 rating, and dual stereo speakers make it a complete package for users who want flagship specs without compromising on style and reliability."
     },
     {
       "id": "104",
@@ -30,7 +33,8 @@
       "desc": "Google Pixel 8 with Tensor G3",
       "price": 75999,
       "color": "#e09751",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/f4058b12-24de.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/f4058b12-24de.jpg?p=default&s=lg",
+      "detdesc": "The Google Pixel 8 is a device that blends Google’s clean software with hardware designed for optimal AI integration. Equipped with the Tensor G3 chip, it offers enhanced AI and machine learning capabilities, enabling features like on-device voice recognition, real-time translation, and advanced photo editing tools. Its 6.2-inch OLED display with 120Hz refresh rate ensures fluid navigation and media consumption. The Pixel 8 is particularly known for its camera system — a dual-camera setup with computational photography magic that produces stunning photos in all conditions. Features like Magic Eraser, Real Tone, and Super Res Zoom bring professional-level results to casual photography. It’s secured by Titan M2 chip and offers years of Android updates, ensuring long-term support. The Pixel 8 also boasts an eco-friendly build with recycled materials, IP68 water and dust resistance, and all-day battery life with fast charging and wireless charging support, making it a thoughtful choice for those who value sustainability and innovation."
     },
     {
       "id": "105",
@@ -38,7 +42,8 @@
       "desc": "Apple iPhone 13th Generation",
       "price": 64999,
       "color": "#d89a26",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/96a67b00-9389.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/96a67b00-9389.jpg?p=default&s=lg",
+      "detdesc": "The iPhone 13 continues Apple’s tradition of delivering premium smartphones with a perfect balance of performance, camera prowess, and battery life. It sports a 6.1-inch Super Retina XDR OLED display for vibrant visuals, protected by Ceramic Shield glass. Powered by the A15 Bionic chip, the iPhone 13 ensures efficient, smooth operation across all tasks, from gaming to video editing. The dual 12MP camera system offers features like Cinematic mode for professional-looking videos, Photographic Styles, and Night mode on both lenses, letting users capture stunning images even in low light. Battery life sees a notable improvement over its predecessor, with all-day endurance supported by fast and MagSafe wireless charging. The design retains the flat-edge aluminum frame, offering a durable yet stylish look. With iOS updates, robust privacy features, and a wide range of accessories, the iPhone 13 is a reliable companion for both personal and professional use."
     },
     {
       "id": "106",
@@ -46,7 +51,8 @@
       "desc": "Apple iPhone 14th Generation",
       "price": 70999,
       "color": "#e0c551",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/36ea82c3-6d6a.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/36ea82c3-6d6a.jpg?p=default&s=lg",
+      "detdesc": "The Apple iPhone 14 introduces meaningful upgrades in safety, connectivity, and performance while retaining the familiar sleek design. It features a 6.1-inch Super Retina XDR display for vivid colors and sharp details. Powered by the A15 Bionic chip with a 5-core GPU, the iPhone 14 delivers excellent speed for apps, games, and AR experiences. One of its standout features is Crash Detection, which can automatically contact emergency services in the event of a severe car accident. The dual-camera system offers impressive photo and video quality, with Photonic Engine improving low-light performance significantly. The front TrueDepth camera gains autofocus for better selfies and video calls. Battery life comfortably lasts through a day’s use, and MagSafe allows for fast, convenient charging and accessories. With iOS’s tight integration, privacy features, and years of updates, the iPhone 14 offers a secure, high-performance experience ideal for everyday use."
     },
     {
       "id": "107",
@@ -54,7 +60,8 @@
       "desc": "Apple iPhone 15th Generation",
       "price": 79999,
       "color": "#d8d326",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/e2c7dff8-23a0.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/e2c7dff8-23a0.jpg?p=default&s=lg",
+      "detdesc": "The iPhone 15 builds upon Apple’s flagship experience with design refinements, a powerful A16 Bionic chip, and enhanced photography. It features a 6.1-inch Super Retina XDR display with Dynamic Island for interactive alerts and activities. The new primary 48MP camera allows for high-resolution photos, detailed cropping, and better low-light performance. Its aerospace-grade aluminum body combines durability with elegance. The A16 Bionic processor ensures top-tier performance and energy efficiency, handling demanding apps and games effortlessly. Battery life sees modest gains, providing all-day endurance. The iPhone 15 also introduces USB-C charging, enhancing compatibility and convenience. With Crash Detection, Emergency SOS via satellite, and iOS’s privacy-first design, this device offers not only innovation but peace of mind. It supports MagSafe accessories and fast wireless charging, and is designed with more recycled materials for a lower environmental footprint."
     },
     {
       "id": "108",
@@ -62,7 +69,8 @@
       "desc": "Mid-range Android phone by Samsung",
       "price": 38999,
       "color": "#cde051",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/c60d8fca-d6f9.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/c60d8fca-d6f9.jpg?p=default&s=lg",
+      "detdesc": "The Samsung Galaxy A54 is a mid-range smartphone that combines style, performance, and value. It features a 6.4-inch Super AMOLED display with Full HD+ resolution and a smooth 120Hz refresh rate for crisp, fluid visuals. Powered by an efficient Exynos processor, the Galaxy A54 offers reliable performance for daily tasks, gaming, and multitasking. The triple-camera setup includes a 50MP main sensor, ultra-wide lens, and macro camera, providing versatility for photography enthusiasts. With a large 5000mAh battery, the device delivers excellent battery life, easily lasting a full day with heavy usage, and supports fast charging to keep you powered up. The Galaxy A54’s design includes Gorilla Glass protection on both front and back, giving it a premium look and durability. It runs on One UI, offering a feature-rich, customizable interface with Samsung’s security features like Knox. The Galaxy A54 strikes a perfect balance between features and affordability, making it ideal for users who want a reliable, stylish device without breaking the bank."
     },
     {
       "id": "109",
@@ -70,7 +78,8 @@
       "desc": "Affordable OnePlus smartphone",
       "price": 25999,
       "color": "#a3d826",
-      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/4ae1d8fb-7621.jpg?p=default&s=lg"
+      "imageURL": "https://s3no.cashify.in/cashify/product/img/xhdpi/4ae1d8fb-7621.jpg?p=default&s=lg",
+      "detdesc": "The OnePlus Nord CE 4 offers a great mix of affordability, style, and performance, making it an appealing choice for budget-conscious buyers. It features a 6.7-inch AMOLED display with 120Hz refresh rate, ensuring vibrant colors and smooth visuals ideal for multimedia consumption and gaming. Powered by a capable Snapdragon chipset and paired with up to 8GB of RAM, it handles everyday tasks and casual gaming effortlessly. The device is equipped with a versatile dual or triple camera setup (depending on region) that includes a high-resolution main sensor, ultra-wide lens, and macro capability, delivering decent photography for its price segment. The 5000mAh battery supports 80W SUPERVOOC fast charging, allowing for rapid top-ups and minimal downtime. OxygenOS provides a clean, near-stock Android experience with thoughtful features and minimal bloatware. With its slim profile, eye-catching design, and reliable performance, the Nord CE 4 is designed for users who want a modern smartphone experience without the premium price tag."
     }
   ]
 }
